@@ -6,5 +6,5 @@ Different programs for calculating percentage similarity of two images
 	knnsingle.py - mapping similar points in 2 images using knn
 
 Usage:
-	python < hashes.py / drawMatches.py / knnsingle.py > <img1> <img2>
-	python knn.py <dir>
+	python < hashes.py / drawMatches.py / knnsingle.py > < img1 > < img2 >
+	python knn.py < dir >
